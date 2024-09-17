@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkalel&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkalel" /> </p>
 
-- 🔭 I’m currently working on [apna AI](https://www.apnaai.com/)
+- 🔭 I’m currently working with [CropData](https://cropdata.in/) in mobile application development product team.
 
-- 🌱 I’m currently learning **Advanced flutter**
+- 🌱 I’m currently learning **Advanced flutter**, **Javascript**, **HTML**, **CSS**, **Web developing**, etc.
 
 - 👨‍💻 All of my projects are available at [https://github.com/sagarkalel](https://github.com/sagarkalel)
 
-- 💬 Ask me about **Flutter, Dart, Firebase, Mobile application development.**
+- 💬 Ask me about **Flutter, Dart, Firebase, Mobile application development, etc.**
 
 - 📫 How to reach me **sagarkalel4141@gmail.com**
 
